@@ -1,3 +1,3 @@
-# angular-s3gzvj
+# angular-tushar-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-s3gzvj)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tushar-project)
